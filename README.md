@@ -2,18 +2,7 @@
 
 This project is a Spring Boot application for managing a product store. It uses XAMPP as the database server and supports CRUD operations on products, including file uploads for product images.
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Database Setup](#database-setup)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Classes Overview](#classes-overview)
-
 ## Prerequisites
-
-- Java Development Kit (JDK) 17
 - XAMPP
 - Visual Studio Code (VS Code)
 
